@@ -19,9 +19,9 @@ A small frontend **Comment Section component** with:
 Clone the repo and install the dependencies:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
-npm install
+git clone <repo-url>
+cd <repo-folder-name>
+npm install # or npm i
 ```
 
 ### 3. Run the app
